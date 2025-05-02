@@ -15,9 +15,7 @@ For most label printers there are satin ribbon cartridges of different colors, b
 
 **[ Excel File ]**
 
-Here you can download the template file:
-
-<a href="Cintas.xlsx">Cintas.xlsx</a>
+Here you can download the template file: <a href="Cintas.xlsx">Cintas.xlsx</a>
 
 **[ Demo video ]**
 
