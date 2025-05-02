@@ -3,7 +3,7 @@ Spreadsheet for themed custom bracelets
 
 <img src="img/PulserasTematicas.jpg" width="500">
 
-This spreadsheet file contains an Excel template to create the custom bracelets using a label printer. The row width is designed for 12mm satin ribbon tape.
+This spreadsheet file contains an Excel template to create the custom bracelets using a label printer. The row heigth is designed for 12mm satin ribbon tape and each row is a different bracelet which will be printet sequentially. You can add images like in the example, but please not that for optimal results they should be converted first to pure black and white.
 
 **[ Demo video ]**
 
