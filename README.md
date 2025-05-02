@@ -10,6 +10,7 @@ This spreadsheet file contains an Excel template to create the custom bracelets 
 For most label printers there are satin ribbon cartridges of different colors, but if you do not find the desired one you can just use the white one and then apply color using fabric tint or acrylic paint.
 
 | Before | After |
+| ------ | ----- |
 | <img src="img/Cinta_blanca.jpg" width="300"> | <img src="img/Cinta_tintada.jpg" width="300"> |
 
 **[ Excel File ]**
