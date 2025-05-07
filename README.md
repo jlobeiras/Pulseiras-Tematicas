@@ -1,4 +1,4 @@
-# Pulseiras-Tematicas
+# Pulseiras Tematicas
 Spreadsheet for themed custom bracelets
 
 <img src="img/PulserasTematicas.jpg" width="500">
