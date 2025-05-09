@@ -21,6 +21,6 @@ Here you can download the template file: <a href="Cintas.xlsx">Cintas.xlsx</a>
 
 **[ Demo video ]**
 
-Video showing the project and the instructions to create the ribbon bracelets:
+Video showing the project and the instructions to create the ribbon bracelets (in galician language):
 
 https://www.youtube.com/watch?v=LlA9Yz9IflU
